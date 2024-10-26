@@ -22,3 +22,6 @@
 - commit your changes 
 - Push, create a PR from your nee branch to exercise3 branch, send it for review and get it merged.
 - Resolve conflicts by pulling latest version of exercise3 branch
+
+## Bonus Exercise
+- Once you have completed all the above tasks, create a tag in github and version it with a consecutive version id
