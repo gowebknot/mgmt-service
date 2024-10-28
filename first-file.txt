@@ -1,2 +1,7 @@
 This is the first file in this directory. Make some changes in this
 Hello, during the course
+
+code to fix bug-2 
+code to fix bug-3 
+
+
