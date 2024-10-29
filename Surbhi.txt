@@ -1,2 +1,4 @@
 Hi there,
 Surbhi here, Started learning Git and GitHub.
+
+I was explaining something in a team meeting when my Alexa suddenly chimed in with “I didn’t catch that!” Everyone laughed, and i politely tell my AI assistant to stay out of work matters.
